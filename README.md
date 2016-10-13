@@ -1,7 +1,7 @@
 # MultiItemViewPager
 MultiItemViewPager，显示多个item的ViewPager例子
 
-* ![](/screenshots/S61013-155737.jpg) * ![](/screenshots/S61013-155758.jpg) 
+* ![](/screenshots/S61013-155737.jpg)  ![](/screenshots/S61013-155758.jpg) 
 
 
 第一种：

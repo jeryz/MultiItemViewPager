@@ -1,6 +1,7 @@
 # MultiItemViewPager
 MultiItemViewPager，显示多个item的ViewPager例子
-![alt text](/screenshots/S61013-155737.jpg)![alt text](/screenshots/S61013-155758.jpg)
+|| ![](/screenshots/S61013-155737.jpg=288x480) || ![](/screenshots/S61013-155758.jpg=288x480) ||
+
 
 第一种：
 继承了ViewPager进行拓展，主要是设置了setClipToPadding(false)，setPadding(paddind, 0, paddind, 0)，setOffscreenPageLimit()

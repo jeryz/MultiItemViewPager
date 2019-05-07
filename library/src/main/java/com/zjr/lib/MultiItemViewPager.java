@@ -1,4 +1,4 @@
-package com.multiitemviewpager.sample;
+package com.zjr.lib;
 
 import android.content.Context;
 import android.graphics.Canvas;

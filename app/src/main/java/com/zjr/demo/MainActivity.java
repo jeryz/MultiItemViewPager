@@ -1,4 +1,4 @@
-package com.multiitemviewpager.sample;
+package com.zjr.demo;
 
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
@@ -12,6 +12,8 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 import android.widget.Toast;
 import com.bumptech.glide.Glide;
+import com.zjr.lib.MultiItemViewPager;
+
 import java.util.ArrayList;
 import java.util.List;
 
